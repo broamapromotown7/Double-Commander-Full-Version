@@ -243,4 +243,4 @@ This repository serves as the official landing page for Double Commander. The so
 **Get the most recent version of Double Commander today!**
 
 ---
-**Last updated:** 2026-09-26 21:47:27 UTC
+**Last updated:** 2026-09-27 00:11:21 UTC
